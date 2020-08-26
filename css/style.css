@@ -1,0 +1,124 @@
+body {
+    margin : 0px;
+    background-color: bisque;
+    color: black;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: grey;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.section {
+    margin-bottom: 100px;
+}
+
+.menu {
+    margin : 0 12px 20px;
+}
+
+.btn {
+    background-color: #00adb5;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color : #00ADB5;
+}
+
+#attribute {
+    position: absolute;
+    left : 220px;
+    top : 80px;
+}
+
+.navbar {
+    background-color: #393e46;
+    padding :10px 0 10px;
+    text-align: right;
+    font-size : 18px;
+    position: fixed;
+    top : 0px;
+    left: 0px;
+    right :0px;
+}
+
+.foto-profil{
+    float:right;
+    border-radius:100%;
+    margin-left: 30px;
+}
+
+.title{
+    font-size: 4.5rem;
+    font-weight: bold;
+    font-family: 'Caveat', cursive;
+    display: block;
+}
+
+.wrapper {
+    width: 720px;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+
+/* SECTION PERTAMA */
+
+.intro {
+    text-align: left;
+}
+
+/* SECTION KEDUA */
+
+.ux-skill-img {
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row {
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+.web-skill-img {
+    float: right;
+    margin-left: 30px;
+}
+
+/* SECTION KETIGA */
+.cta-text {
+    width: 68%;
+    margin : 0 auto 12px auto;
+}
+
+/* FOOTER */
+.footer {
+    background-color: #393e46;
+    padding :30px 0 20px;
+}
+
+.social-links {
+    margin : 0 12px 20px;
+}
+
+a:hover {
+    color :white;
+}
+
+.footer-text {
+    font-size: 14 px;
+    margin-top : 30px;
+}
